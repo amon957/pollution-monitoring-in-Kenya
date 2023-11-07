@@ -6,7 +6,6 @@ Created on Sun Nov  5 00:07:39 2023
 """
 
 import streamlit as st
-import calendar
 import ee
 import geemap.foliumap as geemap
 import geopandas as gpd
@@ -20,7 +19,6 @@ global counties
 counties=gpd.read_file('Shapefile/Counties.shp')
 county_names=counties.sort_values(by=['COUNTY_NAM'], ascending=True)['COUNTY_NAM']
 
-months = [calendar.month_name[i] for i in range(1, 13)]
 pollutants = ['Aerosol Index','Carbon Monoxide','Ozone','Sulphur Dioxide','Nitrogen Dioxide']
 
 def get_minimum(image,roi,band):
