@@ -5,4 +5,4 @@ geopandas
 datetime
 shapely
 streamlit
-json
+json2
