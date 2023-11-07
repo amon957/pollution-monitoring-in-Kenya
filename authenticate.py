@@ -1,8 +1,7 @@
 import json2
 import streamlit as st
 def authenticate(ee):
-    secret_key = st.secrets.json_key
-    key = json2.loads(secret_key)
+    key = 'county_shapefile/ee-amon-melly-b01b9adf906a.json'
     service_account=st.secrets.account
     credentials = ee.ServiceAccountCredentials(service_account, key)
     ee.Initialize(credentials)
