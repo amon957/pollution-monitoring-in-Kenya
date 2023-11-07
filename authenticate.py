@@ -1,7 +1,7 @@
-import json
+import json2
 def authenticate(ee):
     secret_key = st.secrets.json_key
-    key = json.loads(secret_key)
+    key = json2.loads(secret_key)
     service_account=st.secrets.account
 
     credentials = ee.ServiceAccountCredentials(service_account, key)
