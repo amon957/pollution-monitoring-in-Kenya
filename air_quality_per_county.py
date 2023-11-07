@@ -16,7 +16,7 @@ import datetime as dt
 
 global ee
 global counties
-counties=gpd.read_file('Shapefile/Counties.shp')
+counties=gpd.read_file('county_shapefile/Counties.shp')
 county_names=counties.sort_values(by=['COUNTY_NAM'], ascending=True)['COUNTY_NAM']
 
 pollutants = ['Aerosol Index','Carbon Monoxide','Ozone','Sulphur Dioxide','Nitrogen Dioxide']
