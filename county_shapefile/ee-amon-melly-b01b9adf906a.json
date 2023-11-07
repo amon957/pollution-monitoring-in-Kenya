@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ee-amon-melly",
+  "private_key_id": "b01b9adf906a367827a2db2e48d42ad3322b94a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCs/Z3mSTnCIXPV\n0L5PJ06CLt67MiOePIwvY2T6J7Bd1AvBn2FH6+eYTHUxZJQKTfG1anRpuYLRQTI7\nbsS5bdapysLXbBdsbqmcQ/WxKx8waAD+Wr9JzZ0m+fm1DDilx0wxxjpB5mNZQy7I\noiXSEZuuZj+51YUlAwOK7mFpux27/NmqrgH7/eeQS5mp9FNd23RWUAy+vtfFfbOD\ngonQDyv3qxj3DsNvDSDSH/mQ8Y3a5yam/jBlCuc8S40mxe+ay5ooWbI+eGKoEBL1\nB8MoOQdmFfgh/ItFbL6ajJ0H8AtaciHYDwOL87DxItI4NyuUinOrAH+678ZRkyHp\nIrJqWC1rAgMBAAECggEAMtE99UxFf1W8ZW8wuKffVDbYjz0nYXB/7dvQ6fuGv8lu\nuq5LMYmHOyIauyvEoVJMUvK2x+gLGdWBIBxmBeLSUIaTvhyutNe9U35TSnxUaS/k\nOtQFpXSVWcHNLPYuHeTx6R1GN92qCarGr4GSgqdRiGXZCopC1qCQBdwJGbox/erJ\nXZCDik8wMu13u5X4HDb+WZ44h+qd8vGAiKPI8aUM5sPYfYMisqPCbdCQEhC76yQe\n76XciEE3HKwCKBlBURYcBKVCHI2zBJQORNSgO7nkE3V2Yqs2f4mTm06fCZ4vm1s0\nbiqKr5CBDCHaDsmCozGxG4AXsfNt8S3AnwMHkA7CwQKBgQDe/umWnsmZYbPktE0w\nalzrkITwwYOdg+VQGxmr+nCk4tVnxInHoqSjqmSiUZIDPg8glXKkl3mtQaTMCiO/\nxE7eMaN6Xy1B8/dBWMJJskcUFtt2onAmsEwVTiq5PmypVTa5I1HVuH9fMeLejO/8\nuSq4WwxM9pEThXQNHKJZWey+uQKBgQDGmA/u+FI3tT7mCg4P08CPrdnC0MbFfCn5\nbSOlb09Lgwhx1LLUd831tuCnlOQQEPScpoSF0VILySTUGVf4EHifvJy0NGYZtJaF\nOAY336g7k2WQjI770PbrS2U1pGyMZEwPYgsXCHERD3lQXpW5gxNLcH1iWCQxD4Qr\njb4enwrbQwKBgQCUX5xg4apV6hJePDGX402MV458+uVt6xKrKDz+lxZYP62q67SZ\nJnjRhVCMSCYVDjfWgFnVdgw54ZGbSavbruyjHvgdNjLQzVlZG4u6qWptzX+dAhwJ\nQgh9rJL0yrpWOSK+MOgEgkwNtQ208qXDzBjGrZ4Tn4OML6G2D7VeKl1B0QKBgE5C\najT/wlaVo/2/BJ+UEJQOLHwrDcmRDnFuYte0r4jQUCmbagV0WMN1l74yXFVAeUSq\nEhsxy6U9VLgIbLQiuYYpK4+P/pQuqApDc5/dEUy43xNBcK8nP8alZXLoIqaId7iw\nKDKhbv0MHgBf5Zy/XIEkCSUSGuECflEzgDJM9lhFAoGAVxDM9c6+o4QGCpO1hoGe\nM/OTxn9iy6cBA3nHnEvvku2BYShZQw6PCVfOc3vqftUyA0p67sti+As7tKI+KM/P\n6Av7/yxCFdDrZaT/bKCAqD5f71yKLOjDRt/12kXWWYrCB8FMLEpfeREiArasE22b\nuZTE87G5qelXebSVuqwtXdw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-projects@ee-amon-melly.iam.gserviceaccount.com",
+  "client_id": "113542265233378729168",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-projects%40ee-amon-melly.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
