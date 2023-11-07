@@ -1,7 +1,9 @@
+import json
 def authenticate(ee):
-    service_account='streamlit-projects@ee-amon-melly.iam.gserviceaccount.com'
-    key='key/ee-amon-melly-b01b9adf906a.json'
-    
+    secret_key = st.secrets.json_key
+    key = json.loads(secret_key)
+    service_account=st.secrets.account
+
     credentials = ee.ServiceAccountCredentials(service_account, key)
     ee.Initialize(credentials)
     return(ee)
